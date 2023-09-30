@@ -37,7 +37,7 @@ c = 'a'
 z = 'a'
 ekspor = 'n'
 
-opsi = int(input("[+]\033[0;37mMasukan opsi pilihan : "))
+opsi = int(input("[\033[0;32m+\033[0;31m]\033[0;37m Masukan opsi pilihan : "))
 
 if opsi == 1:
     p = opsi
